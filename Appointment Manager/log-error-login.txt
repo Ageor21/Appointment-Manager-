@@ -1,0 +1,5 @@
+Mon Aug 31 15:53:43 IST 2020: username=admin password=admin pin=12345 error=No matching user for the entered credentials
+Fri Sep 04 15:51:07 PKT 2020: username= password= pin= error=Empty credentials are not accepted
+Fri Sep 04 15:51:12 PKT 2020: username= password= pin= error=Empty credentials are not accepted
+Sat Sep 05 17:17:11 PKT 2020: username=admin password=admin pin=1234 error=No matching user for the entered credentials
+Sat Sep 05 17:42:07 PKT 2020: username=admin password=admin pin=123 error=No matching user for the entered credentials
